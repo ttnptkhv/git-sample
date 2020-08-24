@@ -1,2 +1,7 @@
 dev
+<<<<<<< HEAD
 new commit 4 30/08
+=======
+my cheng
+hello
+>>>>>>> 507c8d4... Cheng log
