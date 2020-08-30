@@ -3,4 +3,8 @@ Helo
 test
 
 new file 2 
+<<<<<<< HEAD
 commit newS
+=======
+<p> test </p>
+>>>>>>> 8983eb9... Commit - 1
