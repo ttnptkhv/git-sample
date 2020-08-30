@@ -15,3 +15,4 @@ commit new
 =======
 commit new
 >>>>>>> 6d71bcb... Commit - 3
+new line - 1
