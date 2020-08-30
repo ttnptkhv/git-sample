@@ -1,5 +1,6 @@
 dev
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 my cheng
 hello
@@ -7,3 +8,6 @@ master
 
 new line 1 
 >>>>>>> f7905ab... Commit - 1.1
+=======
+commit new
+>>>>>>> 6f86326... Commit - 1
