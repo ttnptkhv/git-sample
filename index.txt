@@ -1,14 +1,1 @@
-<h1> Hello Git! </h1>
-Helo
-test
-
-new file 2 
-<<<<<<< HEAD
-commit newS
-=======
-<p> test </p>
-<<<<<<< HEAD
->>>>>>> 8983eb9... Commit - 1
-=======
-new commit 1 30/08
->>>>>>> 7917886... Commit 1
+clear
