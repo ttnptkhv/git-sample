@@ -1,1 +1,9 @@
 dev
+<<<<<<< HEAD
+=======
+my cheng
+hello
+master
+
+new line 1 
+>>>>>>> f7905ab... Commit - 1.1
